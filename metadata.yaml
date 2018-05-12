@@ -1,0 +1,30 @@
+_repo: Velazquez_30316
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30316-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bensusan, S. L. (Samuel Levy)
+    alias: Bensusan, Samuel Levy
+    birthdate: 1872
+    deathdate: 1958
+    gutenberg_agent_id: '34029'
+    url: http://www.gutenberg.org/2009/agents/34029
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2009-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30316'
+  lccn: w08000031
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Velázquez, Diego, 1599-1660'
+title: Velazquez
+url: http://www.gutenberg.org/ebooks/30316
